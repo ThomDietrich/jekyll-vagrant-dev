@@ -8,5 +8,5 @@ You need to have [VirtualBox](https://www.virtualbox.org) and [Vagrant](https://
 Put the `Vagrantfile` alongside your jekyll files. After that, it's as easy as:
 
 ```shell
-/path-to/openhab-docs$ vagrant up
+/path-to/docs$ vagrant up
 ```
